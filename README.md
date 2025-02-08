@@ -1,4 +1,4 @@
 # Calculator
 
 this is Calculator code in python using tkinter lib for UI
-![Calculator](https://github.com/user-attachments/assets/b193d018-e836-4d3d-a9c6-e174ff4744be)
+![Image](https://github.com/user-attachments/assets/4208b9f1-daf5-4126-99ee-af7a43d70da6)
